@@ -2,7 +2,7 @@
 
 ## Systems & Deployment Engineer
 
-I turn ambiguous real-world workflows into integrated, operable systems spanning robotics, production software, APIs, infrastructure, physical devices, and operator workflows.
+I build and deploy systems across software and real-world boundaries—robotics, APIs, enterprise integrations, infrastructure, physical devices, and operator workflows.
 
 *Forward-Deployed Systems · Robotics · Production Software · APIs & Enterprise Integrations*
 
@@ -29,6 +29,6 @@ The main team implementation was developed in GitLab and delivered to the projec
 **Robotics:** ROS1/ROS2, RMF, fleet integration, sensors, physical-system interfaces  
 **Applied AI:** LLM application integration, structured outputs, deterministic fallbacks, evaluation, human-in-the-loop design
 
-## Link
+## Links
 
 [LinkedIn](https://www.linkedin.com/in/yufei-du-)
