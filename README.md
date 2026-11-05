@@ -1,33 +1,26 @@
 # Du Yufei
 
-## Systems & Deployment Engineer
+**Forward Deployed Engineer · Python · Applied AI · Singapore**
 
-I build and deploy systems across software and real-world boundaries—robotics, APIs, enterprise integrations, infrastructure, physical devices, and operator workflows.
+I take systems from pilot to live operation where software meets the physical world: hospital service robots, Python data pipelines, and the operators who depend on them.
 
-*Forward-Deployed Systems · Robotics · Production Software · APIs & Enterprise Integrations*
+## Selected proof
 
-## What I work on
+- **Hospital robot fleet, pilot → go-live:** Deployed 9 service robots across 3 hospitals, from scoped pilot to live operation.
+- **UAT ownership:** Owned Phase 3 user acceptance testing (UAT) through sign-off.
+- **Field root cause from evidence:** Traced a ~20 s lift delay to its root cause from ROS logs.
+- **Production Python pipeline:** Built an ERP order pipeline handling ~60k orders/month, with a human-in-the-loop import step that keeps a person in control of uncertain records.
+- **HRI capstone:** Project Lead / Full Stack Developer on a SIT/DigiPen × LionsBot cleaning-robot interaction system — [case study](https://github.com/dannyduyufei/HCI_Project).
 
-- Forward-deployed engineering for real operating environments, from unclear requirements to systems people can run and support
-- Robotics and physical-system integration across ROS, fleet coordination, sensors, devices, and operator interfaces
-- Python backends and API integrations with explicit contracts, failure handling, and production constraints
-- Applied AI with structured outputs, deterministic boundaries, evaluation, and human oversight where it matters
-- Cross-layer troubleshooting across services, infrastructure, devices, and workflows
+## In progress
 
-## Selected public work
+- **`fleet-monitor`** — FastAPI + MQTT robot fleet health and telemetry service (personal learning project, in progress).
 
-### [HCI for Cleaning Robots — Capstone Case Study](https://github.com/dannyduyufei/HCI_Project)
+## Toolbox
 
-Four-person 2023–2024 SIT/DigiPen capstone developed with LionsBot. As **Project Lead / Full Stack Developer**, I worked across software development and project leadership for a human-robot interaction system connecting perception, response generation, ROS coordination, and physical outputs. The project record documents 25 validation tests.
-
-The main team implementation was developed in GitLab and delivered to the project owner, so the public repository contains a sanitized case study and static historical interface rather than the full source.
-
-## Engineering toolbox
-
-**Backend & software:** Python, FastAPI, TypeScript/JavaScript, React, C/C++, SQL  
-**Systems & integration:** REST APIs, WebSocket, MQTT, Linux, Docker, Kubernetes, AWS  
-**Robotics:** ROS1/ROS2, RMF, fleet integration, sensors, physical-system interfaces  
-**Applied AI:** LLM application integration, structured outputs, deterministic fallbacks, evaluation, human-in-the-loop design
+**Backend:** Python, FastAPI, REST, SQL, MQTT
+**Robotics:** ROS, fleet integration, Linux, field debugging from logs
+**Applied AI:** structured outputs, fixture-based evaluation, human-in-the-loop design
 
 ## Links
 
