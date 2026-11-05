@@ -12,10 +12,6 @@ I take systems from pilot to live operation where software meets the physical wo
 - **Production Python pipeline:** Built an ERP order pipeline handling ~60k orders/month, with a human-in-the-loop import step that keeps a person in control of uncertain records.
 - **HRI capstone:** Project Lead / Full Stack Developer on a SIT/DigiPen × LionsBot cleaning-robot interaction system — [case study](https://github.com/dannyduyufei/HCI_Project).
 
-## In progress
-
-- **`fleet-monitor`** — FastAPI + MQTT robot fleet health and telemetry service (personal learning project, in progress).
-
 ## Toolbox
 
 **Backend:** Python, FastAPI, REST, SQL, MQTT
